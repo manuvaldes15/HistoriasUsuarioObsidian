@@ -342,3 +342,6 @@ SEGMENTACIONES APLICADAS (HU originales → historias resultantes):
   HU Ingresos de situación econom. → Historias 13 y 14  (ingresos + egresos)
 
 ==================================================================
+
+
+## HU nueva
